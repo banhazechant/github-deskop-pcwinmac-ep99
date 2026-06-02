@@ -1,4 +1,4 @@
-# 
+# Lightweight GitHub Desktop extensions for Mac OS | Elite GitHub Desktop extensions for PC Windows. Featuring mock-servers and debugger — optimized for maximum performance on every platform.
 
 
 
